@@ -1,7 +1,7 @@
-RAPSOD.IA (stanford-mir app)
+RAPSODIA (stanford-mir app)
 ============
 
-Instructional material for the [Music Information Retrieval Workshop](https://ccrma.stanford.edu/workshops/mir-2018) at CCRMA, Stanford University, 2014-18.
+Sentiment Analisys music creation app based on the Instructional material for the [Music Information Retrieval Workshop](https://ccrma.stanford.edu/workshops/mir-2018) at CCRMA, Stanford University, 2014-18.
 
 [Registration for the Stanford CCRMA MIR 2018 Workshop is open!](https://ccrma.stanford.edu/workshops/mir-2018) This year's esteemed instructors include:
 
